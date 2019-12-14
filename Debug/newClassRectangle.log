@@ -1,0 +1,6 @@
+﻿  newClassRectangle.cpp
+  Rectangle.cpp
+D:\IVT\OOP_Mine\Class-N2\newClassRectangle\Rectangle.cpp(16,14): warning C4244:  return: преобразование "double" в "typeOfFloat", возможна потеря данных
+  Создание кода...
+D:\IVT\OOP_Mine\Class-N2\newClassRectangle\Rectangle.cpp(20,14): warning C4244:  return: преобразование "double" в "typeOfFloat", возможна потеря данных
+  newClassRectangle.vcxproj -> D:\IVT\OOP_Mine\Class-N2\newClassRectangle\Debug\newClassRectangle.exe

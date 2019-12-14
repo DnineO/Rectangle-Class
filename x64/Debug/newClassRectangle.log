@@ -1,0 +1,3 @@
+﻿  newClassRectangle.cpp
+D:\IVT\OOP_Mine\Class-N2\newClassRectangle\newClassRectangle.cpp(24,7): warning C4101:  str: неиспользованная локальная переменная
+  newClassRectangle.vcxproj -> D:\IVT\OOP_Mine\Class-N2\newClassRectangle\x64\Debug\newClassRectangle.exe
